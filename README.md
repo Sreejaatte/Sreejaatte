@@ -46,6 +46,13 @@ Retrieval-Augmented Generation (RAG) System
 * Processes unstructured data for contextual retrieval
 * Improves response relevance using embeddings
 
+SQL Business Analysis
+
+- Performed advanced data analysis using SQL on structured business datasets  
+- Designed optimized queries (joins, CTEs, window functions) for large-scale data processing  
+- Extracted key insights on customer behavior, revenue trends, and business performance  
+- Applied data mining techniques to support strategic decision-making  
+- Delivered data-driven insights to simulate real-world business reporting scenarios  
 ---
 
 What Makes My Work Different
