@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Sreeja Reddy 👋
 
-<!--
-**Sreejaatte/Sreejaatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | Machine Learning Engineer | Python Developer**
 
-Here are some ideas to get you started:
+I build **data-driven systems** that transform raw data into actionable insights and scalable ML solutions. My focus is on **predictive modeling, NLP, and end-to-end ML pipelines** with real-world business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+What I Do
+
+* Build machine learning models for prediction and classification
+* Perform exploratory data analysis (EDA) and data visualization
+* Design scalable ML systems (API + deployment)
+* Extract insights to support data-driven decision-making
+
+---
+
+Core Skills
+
+**Languages:** Python, SQL
+**ML & Data Science:** Machine Learning, Predictive Modeling, NLP, Feature Engineering
+**Statistics:** Hypothesis Testing, Regression, Probability, A/B Testing
+**Visualization:** Matplotlib, Seaborn, Power BI
+**Tools:** FastAPI, Docker, Git, CI/CD
+**Frameworks:** TensorFlow, PyTorch (Basics)
+
+---
+
+Featured Projects
+
+Customer Churn Prediction & Survival Analysis
+
+* Predicts customer churn using ML models
+* Performs survival analysis to estimate retention probability
+* Generates insights for business retention strategies
+
+Fake News Detection System
+
+* NLP-based classification system (92% accuracy)
+* End-to-end ML pipeline with API deployment
+* Real-time prediction system
+
+Retrieval-Augmented Generation (RAG) System
+
+* Combines vector search with LLM responses
+* Processes unstructured data for contextual retrieval
+* Improves response relevance using embeddings
+
+---
+
+What Makes My Work Different
+
+* Focus on **business impact, not just models**
+* End-to-end pipeline: **data → model → deployment**
+* Clean, structured, production-ready repositories
+
+---
+
+Connect With Me
+
+* 🔗 LinkedIn: https://linkedin.com/in/sreeja-atte-994288384
+* 💻 GitHub: https://github.com/Sreejaatte
+* 📧 Email: [sreejaatte.01@gmail.com](mailto:sreejaatte.01@gmail.com)
+
+---
+
+⭐ *Open to Data Science, ML Engineer, and AI roles*
